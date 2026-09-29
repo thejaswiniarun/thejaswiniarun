@@ -12,4 +12,4 @@
 - ⚡ Fun fact **I love coffee and I often experiment with different beans and brewing techniques.**
 
 
-<h3 align="center">📫 Reach me on: <a href="contact.thejaswiniarun@gmail.com" target="blank"></h3>
+<h3 align="center">📫 Reach me on: <a href="contact.thejaswiniarun@gmail.com" target="contact.thejaswiniarun@gmail.com"></h3>
