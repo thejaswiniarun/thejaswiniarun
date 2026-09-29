@@ -1,11 +1,11 @@
 ## Hey there 👋
 
 <h1 align="center"> I'm Thejaswini Arun</h1>
-<h3 align="center"I’m an SDET who uses Playwright, Selenium, and API testing. I enjoy building reliable and easy-to-maintain automation, solving real-world testing challenges, and continuously learning new ways to improve testing with AI.</h3>
+<h3 align="center">I’m an SDET who uses Playwright, Selenium, and API testing. I enjoy building reliable and easy-to-maintain automation, solving real-world testing challenges, and continuously learning new ways to improve testing with AI.</h3>
 
-- 📫 How to reach me **contact.thejaswiniarun@gmail.com**
-- 
- - 🌱 Hobbies **I sketch and draw. Nowadays I am experimenting with alcohol markers and acrylic markers.**
+- 📫 Reach me on **contact.thejaswiniarun@gmail.com**
+
+- 🌱 Hobbies **I sketch and draw. Nowadays I am experimenting with alcohol markers and acrylic markers.**
 - ⚡ Fun fact **I love coffee and I often experiment with different beans and brewing techniques.**
 
 
