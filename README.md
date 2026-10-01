@@ -1,38 +1,28 @@
-<!-- ✨ Header -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%2C%20I'm%20Thejaswini%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=SDET%20%C2%B7%20Bug%20hunter%20%C2%B7%20Automation%20nerd&descSize=18&descAlignY=60" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,55:312E81,100:6D28D9&height=220&section=header&text=Thejaswini%20Arun&fontSize=46&fontColor=F8E9C8&animation=fadeIn&fontAlignY=36&desc=SDET%20%C2%B7%20Bug%20Hunter%20%C2%B7%20Automation%20Craftsperson&descSize=17&descColor=C4B5FD&descAlignY=58" width="100%" alt="Thejaswini Arun"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=F75C7E&center=true&vCenter=true&width=520&lines=Turning+real-world+bugs+into+reliable+automation+%F0%9F%90%9E;Breaking+things+so+users+don't+have+to+%F0%9F%94%A8;Building+3+secret+automation+projects+%F0%9F%A4%AB;Can+you+guess+the+platforms%3F+%F0%9F%91%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3200&pause=1000&color=8B5CF6&center=true&vCenter=true&repeat=true&width=800&height=45&lines=Turning+real-world+bugs+into+reliable+automation+%F0%9F%90%9E;Breaking+things+so+users+don't+have+to+%F0%9F%94%A8;Building+3+secret+automation+projects+%F0%9F%A4%AB;Can+you+guess+the+platforms%3F+%F0%9F%91%80" alt="Typing animation" />
 </a>
-
-<br/>
-
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
-![TestNG](https://img.shields.io/badge/TestNG-FF6F61?style=for-the-badge&logo=testng&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![REST Assured](https://img.shields.io/badge/REST_Assured-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 </div>
 
----
+<br/>
 
 ## 🧪 Currently Cooking
 
 <div align="center">
 
-**3 end-to-end automation projects · 3 mystery platforms · 0 spoilers** 🤐
+**3 end-to-end automation projects &nbsp;·&nbsp; 3 mystery platforms &nbsp;·&nbsp; 0 spoilers** 🤐
 
 </div>
 
 | | Project | Stack | Drops | Status |
 |:-:|:--|:--|:-:|:-:|
-| 🍔 | **A famous fast-food ordering app** | Playwright + TestNG | **Oct** | ![](https://img.shields.io/badge/-building-F75C7E?style=flat-square) |
-| ✈️ | **A popular travel & stay booking app** | Selenium + Cucumber + REST Assured | **Nov** | ![](https://img.shields.io/badge/-planned-lightgrey?style=flat-square) |
-| 🛒 | **A rapid grocery-delivery app** | Playwright + Cucumber | **Dec** | ![](https://img.shields.io/badge/-planned-lightgrey?style=flat-square) |
+| 🍔 | **A famous fast-food ordering app** | Playwright + TestNG | **Oct** | ![](https://img.shields.io/badge/building-6D28D9?style=flat-square) |
+| ✈️ | **A popular travel & stay booking app** | Selenium + Cucumber + REST Assured | **Nov** | ![](https://img.shields.io/badge/planned-94A3B8?style=flat-square) |
+| 🛒 | **A rapid grocery-delivery app** | Playwright + Cucumber | **Dec** | ![](https://img.shields.io/badge/planned-94A3B8?style=flat-square) |
 
 <details>
 <summary>🎁 <b>What's inside each project?</b> (click me)</summary>
@@ -46,7 +36,7 @@
 <div align="center">
 
 ### 🔎 Can you guess the three platforms? 😄
-*Reveals happen when each project goes live!*
+*Each one is revealed when its project goes live.*
 
 </div>
 
@@ -56,7 +46,20 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,selenium,playwright,postman,jira,confluence,maven,git,github&perline=9" alt="skills" />
+<img src="https://img.shields.io/badge/Playwright-1E1B4B?style=for-the-badge&logo=playwright&logoColor=A78BFA" alt="Playwright"/>
+<img src="https://img.shields.io/badge/Selenium-1E1B4B?style=for-the-badge&logo=selenium&logoColor=A78BFA" alt="Selenium"/>
+<img src="https://img.shields.io/badge/Cucumber-1E1B4B?style=for-the-badge&logo=cucumber&logoColor=A78BFA" alt="Cucumber"/>
+<img src="https://img.shields.io/badge/TestNG-1E1B4B?style=for-the-badge&logoColor=A78BFA" alt="TestNG"/>
+<br/>
+<img src="https://img.shields.io/badge/REST%20Assured-1E1B4B?style=for-the-badge&logoColor=A78BFA" alt="REST Assured"/>
+<img src="https://img.shields.io/badge/Postman-1E1B4B?style=for-the-badge&logo=postman&logoColor=A78BFA" alt="Postman"/>
+<img src="https://img.shields.io/badge/Jira-1E1B4B?style=for-the-badge&logo=jira&logoColor=A78BFA" alt="Jira"/>
+<img src="https://img.shields.io/badge/Confluence-1E1B4B?style=for-the-badge&logo=confluence&logoColor=A78BFA" alt="Confluence"/>
+<br/>
+<img src="https://img.shields.io/badge/Java-1E1B4B?style=for-the-badge&logo=openjdk&logoColor=A78BFA" alt="Java"/>
+<img src="https://img.shields.io/badge/Maven-1E1B4B?style=for-the-badge&logo=apachemaven&logoColor=A78BFA" alt="Maven"/>
+<img src="https://img.shields.io/badge/Git-1E1B4B?style=for-the-badge&logo=git&logoColor=A78BFA" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-1E1B4B?style=for-the-badge&logo=github&logoColor=A78BFA" alt="GitHub"/>
 
 </div>
 
@@ -74,8 +77,8 @@ Real QA work is more than isolated scripts. I'm building projects that grow like
 
 ### 📫 Let's connect
 
-[![Email](https://img.shields.io/badge/Email-contact.thejaswiniarun%40gmail.com-F75C7E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact.thejaswiniarun@gmail.com)
+<a href="mailto:contact.thejaswiniarun@gmail.com"><img src="https://img.shields.io/badge/contact.thejaswiniarun%40gmail.com-6D28D9?style=for-the-badge&logo=gmail&logoColor=F8E9C8" alt="Email"/></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,55:312E81,100:0F172A&height=110&section=footer" width="100%" alt="footer"/>
 
 </div>
