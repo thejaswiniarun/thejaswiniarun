@@ -1,13 +1,81 @@
-## Hey there 👋
+<!-- ✨ Header -->
+<div align="center">
 
-<h1 align="center"> I'm Thejaswini Arun</h1>
-<h5 align="center">I’m an SDET who enjoys turning real-world testing challenges into reliable, maintainable automation.</h5>
-<h5 align="center">I work with tools like Playwright, Selenium, Cucumber, TestNG, REST Assured, and Postman</h5>
-<h3>🧪 What am I working on?</h3> <p> I’m currently building three end-to-end automation projects around three everyday platforms that many of us use regularly. 👀 </p> <p> I’m keeping the names under wraps for now.<br> You’ll have to explore the projects and figure them out yourself. 😉 </p> <p> Each project is being built one at a time, with its own technology stack, framework architecture, test strategy, and documentation. </p> <p> Along the way, I'm building out the kind of artifacts you'd expect in a real QA/SDET project: </p> <ul> <li>🧪 Detailed test cases and scenarios</li> <li>📋 Test plans and test strategy</li> <li>🐞 Defect tracking and Jira workflows</li> <li>📚 Confluence-style documentation</li> <li>🔍 Exploratory testing using Postman</li> <li>⚙️ Automation frameworks and reusable utilities</li> <li>📊 Test execution and reporting</li> <li>🧩 API and UI testing where appropriate</li> <li>🤖 Exploring how AI can make testing smarter and more efficient</li> <li>✍️ Technical blogs documenting the journey, decisions, challenges, and lessons learned</li> </ul> <h3>🗺️ The Roadmap</h3> <p> I'm planning to release the projects progressively throughout the year: </p> <h4>🍔 Project 01 - Target: End of October</h4> <p> A well-known fast-food ordering experience.<br> <strong>Stack:</strong> Playwright + TestNG </p> <h4>✈️ Project 02 - Target: End of November</h4> <p> A popular travel &amp; accommodation booking experience.<br> <strong>Stack:</strong> Selenium + Cucumber + REST Assured </p> <h4>🛒 Project 03 - Target: End of December</h4> <p> A widely used rapid grocery-delivery experience.<br> <strong>Stack:</strong> Playwright + Cucumber </p> <p> The platforms will be revealed when each project goes live. 🔎 </p> <h3>🌱 Why am I doing this?</h3> <p> I wanted to go beyond isolated automation exercises and build something closer to how real QA engineering projects evolve. </p> <p> I'll be sharing the projects, implementation decisions, challenges, and lessons learned along the way. </p> <p> Hopefully, these repositories can also become useful references for anyone learning SDET, test automation, Playwright, Selenium, Cucumber, API testing, or framework design. </p> <p> And if you spot something that can be improved, please say so! 🙌 </p> <p> I'm here to learn, experiment, share, and build better automation together. </p> <p> The first mystery goes live at the end of October. 👀 </p> <p> Until then…<br> <strong>Can you guess the three platforms? 😄</strong> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%2C%20I'm%20Thejaswini%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=SDET%20%C2%B7%20Bug%20hunter%20%C2%B7%20Automation%20nerd&descSize=18&descAlignY=60" width="100%" alt="header"/>
 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=F75C7E&center=true&vCenter=true&width=520&lines=Turning+real-world+bugs+into+reliable+automation+%F0%9F%90%9E;Breaking+things+so+users+don't+have+to+%F0%9F%94%A8;Building+3+secret+automation+projects+%F0%9F%A4%AB;Can+you+guess+the+platforms%3F+%F0%9F%91%80" alt="Typing SVG" />
+</a>
 
-<h6 align="center">Languages and Tools:</h6>
-<p align="center"> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+<br/>
 
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
+![TestNG](https://img.shields.io/badge/TestNG-FF6F61?style=for-the-badge&logo=testng&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![REST Assured](https://img.shields.io/badge/REST_Assured-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
-<h3 align="center">📫 Reach me on: <a href="mailto:contact.thejaswiniarun@gmail.com">contact.thejaswiniarun@gmail.com</a></h3>
+</div>
+
+---
+
+## 🧪 Currently Cooking
+
+<div align="center">
+
+**3 end-to-end automation projects · 3 mystery platforms · 0 spoilers** 🤐
+
+</div>
+
+| | Project | Stack | Drops | Status |
+|:-:|:--|:--|:-:|:-:|
+| 🍔 | **A famous fast-food ordering app** | Playwright + TestNG | **Oct** | ![](https://img.shields.io/badge/-building-F75C7E?style=flat-square) |
+| ✈️ | **A popular travel & stay booking app** | Selenium + Cucumber + REST Assured | **Nov** | ![](https://img.shields.io/badge/-planned-lightgrey?style=flat-square) |
+| 🛒 | **A rapid grocery-delivery app** | Playwright + Cucumber | **Dec** | ![](https://img.shields.io/badge/-planned-lightgrey?style=flat-square) |
+
+<details>
+<summary>🎁 <b>What's inside each project?</b> (click me)</summary>
+<br/>
+
+🧪 Test cases & plans &nbsp;·&nbsp; 🐞 Jira defect flow &nbsp;·&nbsp; 📚 Confluence-style docs &nbsp;·&nbsp; 🔍 Postman exploration<br/>
+⚙️ Reusable framework &nbsp;·&nbsp; 📊 Execution reports &nbsp;·&nbsp; 🤖 AI-assisted testing &nbsp;·&nbsp; ✍️ Blogs on the journey
+
+</details>
+
+<div align="center">
+
+### 🔎 Can you guess the three platforms? 😄
+*Reveals happen when each project goes live!*
+
+</div>
+
+---
+
+## 🛠️ Toolbox
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,selenium,playwright,postman,jira,confluence,maven,git,github&perline=9" alt="skills" />
+
+</div>
+
+---
+
+## 🌱 Why?
+
+Real QA work is more than isolated scripts. I'm building projects that grow like real ones, to **learn, share, and be a useful reference** for anyone exploring SDET, Playwright, Selenium, Cucumber, or API testing.
+
+> 💬 *Spot something to improve? Tell me. I'd love that!* 🙌
+
+---
+
+<div align="center">
+
+### 📫 Let's connect
+
+[![Email](https://img.shields.io/badge/Email-contact.thejaswiniarun%40gmail.com-F75C7E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact.thejaswiniarun@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" alt="footer"/>
+
+</div>
