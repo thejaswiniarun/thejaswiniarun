@@ -1,8 +1,72 @@
 ## Hey there 👋
 
 <h1 align="center"> I'm Thejaswini Arun</h1>
-<h5 align="center">I’m an SDET who uses Playwright, Selenium, and API testing. I enjoy building reliable and easy-to-maintain automation, solving real-world testing challenges, and continuously learning new ways to improve testing with AI.</h5>
+<h5 align="center">I’m an SDET who enjoys turning real-world testing challenges into reliable, maintainable automation.</h5>
+<h5 align="center">I work with tools like Playwright, Selenium, Cucumber, TestNG, REST Assured, and Postman</h5>
 
+<p>🧪 What am I working on?
+I’m currently building three end-to-end automation projects around three everyday platforms that many of us use regularly. 👀
+
+I’m keeping the names under wraps for now.
+You’ll have to explore the projects and figure them out yourself. 😉
+
+Each project is being built one at a time, with its own technology stack, framework architecture, test strategy, and documentation.
+
+This isn't just about writing automated tests.
+
+Along the way, I'm building out the kind of artifacts you'd expect in a real QA/SDET project:
+
+🧪 Detailed test cases and scenarios
+
+📋 Test plans and test strategy
+
+🐞 Defect tracking and Jira workflows
+
+📚 Confluence-style documentation
+
+🔍 Exploratory testing using Postman
+
+⚙️ Automation frameworks and reusable utilities
+
+📊 Test execution and reporting
+
+🧩 API and UI testing where appropriate
+
+🤖 Exploring how AI can make testing smarter and more efficient
+
+✍️ Technical blogs documenting the journey, decisions, challenges, and lessons learned
+
+🗺️ The Roadmap
+I'm planning to release the projects progressively throughout the year:
+
+🍔 Project 01 - Target: End of October
+A well-known fast-food ordering experience.
+Stack: Playwright + TestNG
+
+✈️ Project 02 - Target: End of November
+A popular travel & accommodation booking experience.
+Stack: Selenium + Cucumber + REST Assured
+
+🛒 Project 03 - Target: End of December
+A widely used rapid grocery-delivery experience.
+Stack: Playwright + Cucumber
+
+The platforms will be revealed when each project goes live. 🔎</p>
+<p>🌱 Why am I doing this?
+I wanted to go beyond isolated automation exercises and build something closer to how real QA engineering projects evolve.
+
+I'll be sharing the projects, implementation decisions, challenges, and lessons learned along the way.
+
+Hopefully, these repositories can also become useful references for anyone learning SDET, test automation, Playwright, Selenium, Cucumber, API testing, or framework design.
+
+And if you spot something that can be improved, please say so! 🙌
+
+I'm here to learn, experiment, share, and build better automation together.
+
+The first mystery goes live at the end of October. 👀
+
+Until then…
+Can you guess the three platforms? 😄</p>
 
 
 <h6 align="center">Languages and Tools:</h6>
