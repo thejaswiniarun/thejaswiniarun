@@ -3,24 +3,50 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,55:312E81,100:6D28D9&height=220&section=header&text=Thejaswini%20Arun&fontSize=46&fontColor=F8E9C8&animation=fadeIn&fontAlignY=36&desc=SDET%20%C2%B7%20Bug%20Hunter%20%C2%B7%20Automation%20Craftsperson&descSize=17&descColor=C4B5FD&descAlignY=58" width="100%" alt="Thejaswini Arun"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3200&pause=1000&color=8B5CF6&center=true&vCenter=true&repeat=true&width=800&height=45&lines=Turning+real-world+bugs+into+reliable+automation+%F0%9F%90%9E;Breaking+things+so+users+don't+have+to+%F0%9F%94%A8;Building+3+secret+automation+projects+%F0%9F%A4%AB;Can+you+guess+the+platforms%3F+%F0%9F%91%80" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3200&pause=1000&color=8B5CF6&center=true&vCenter=true&repeat=true&width=800&height=45&lines=Turning+real-world+bugs+into+reliable+automation+%F0%9F%90%9E;Breaking+things+so+users+don't+have+to+%F0%9F%94%A8;Project+1+is+live%3A+KFC+India+API+automation+%F0%9F%9A%80;2+secret+platforms+to+go.+Can+you+guess+them%3F+%F0%9F%91%80" alt="Typing animation" />
 </a>
 
 </div>
 
 <br/>
 
+## 🚀 Just Shipped
+
+<div align="center">
+
+**🍗 KFC India API Test Automation** — 22 test cases · 12 passed · **10 real defects found** 🐞
+
+![](https://img.shields.io/badge/status-live-16A34A?style=flat-square)
+![](https://img.shields.io/badge/Java-17+-1E1B4B?style=flat-square)
+![](https://img.shields.io/badge/Playwright-API-1E1B4B?style=flat-square)
+![](https://img.shields.io/badge/TestNG-1E1B4B?style=flat-square)
+![](https://img.shields.io/badge/Allure-Reports-1E1B4B?style=flat-square)
+![](https://img.shields.io/badge/GitHub%20Actions-CI-1E1B4B?style=flat-square)
+
+[**👉 Explore the project**](https://github.com/thejaswiniarun/KFC-India-API-Automation-Pipeline) &nbsp;·&nbsp; [Test Plan](https://github.com/thejaswiniarun/KFC-India-API-Automation-Pipelinedocs/test-plan.md) &nbsp;·&nbsp; [Bug Reports](https://github.com/thejaswiniarun/KFC-India-API-Automation-Pipeline/tree/main/docs/bug-reports) &nbsp;·&nbsp; [Summary Report](https://github.com/thejaswiniarun/KFC-India-API-Automation-Pipeline/blob/main/docs/test-evidence/test_summary_report.md)
+
+</div>
+
+| | What I covered | Highlights |
+|:-:|:--|:--|
+| 📍 | Store & service validations | Unknown channel and empty params accepted with `200 OK` |
+| 🍔 | Menu catalog | Missing item-exclusions endpoint (`404`) |
+| 🛒 | Cart management | Scaled-integer subtotals, zero-quantity handling |
+| 🧮 | Basket & tax | Out-of-stock flagged valid, tax base returned as `0` |
+
+---
+
 ## 🧪 Currently Cooking
 
 <div align="center">
 
-**3 end-to-end automation projects &nbsp;·&nbsp; 3 mystery platforms &nbsp;·&nbsp; 0 spoilers** 🤐
+**3 end-to-end automation projects &nbsp;·&nbsp; 1 shipped &nbsp;·&nbsp; 2 mystery platforms to go** 🤐
 
 </div>
 
 | | Project | Stack | Drops | Status |
 |:-:|:--|:--|:-:|:-:|
-| 🍔 | **A famous fast-food ordering app** | Playwright + TestNG | **Oct** | ![](https://img.shields.io/badge/building-6D28D9?style=flat-square) |
+| 🍗 | **KFC India: API test automation** | Java + Playwright + TestNG + Allure | **Oct** | ![](https://img.shields.io/badge/live-16A34A?style=flat-square) |
 | ✈️ | **A popular travel & stay booking app** | Selenium + Cucumber + REST Assured | **Nov** | ![](https://img.shields.io/badge/planned-94A3B8?style=flat-square) |
 | 🛒 | **A rapid grocery-delivery app** | Playwright + Cucumber | **Dec** | ![](https://img.shields.io/badge/planned-94A3B8?style=flat-square) |
 
@@ -35,7 +61,7 @@
 
 <div align="center">
 
-### 🔎 Can you guess the three platforms? 😄
+### 🔎 Can you guess the next two platforms? 😄
 *Each one is revealed when its project goes live.*
 
 </div>
@@ -53,9 +79,11 @@
 <br/>
 <img src="https://img.shields.io/badge/REST%20Assured-1E1B4B?style=for-the-badge&logoColor=A78BFA" alt="REST Assured"/>
 <img src="https://img.shields.io/badge/Postman-1E1B4B?style=for-the-badge&logo=postman&logoColor=A78BFA" alt="Postman"/>
+<img src="https://img.shields.io/badge/Allure-1E1B4B?style=for-the-badge&logoColor=A78BFA" alt="Allure"/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-1E1B4B?style=for-the-badge&logo=githubactions&logoColor=A78BFA" alt="GitHub Actions"/>
+<br/>
 <img src="https://img.shields.io/badge/Jira-1E1B4B?style=for-the-badge&logo=jira&logoColor=A78BFA" alt="Jira"/>
 <img src="https://img.shields.io/badge/Confluence-1E1B4B?style=for-the-badge&logo=confluence&logoColor=A78BFA" alt="Confluence"/>
-<br/>
 <img src="https://img.shields.io/badge/Java-1E1B4B?style=for-the-badge&logo=openjdk&logoColor=A78BFA" alt="Java"/>
 <img src="https://img.shields.io/badge/Maven-1E1B4B?style=for-the-badge&logo=apachemaven&logoColor=A78BFA" alt="Maven"/>
 <img src="https://img.shields.io/badge/Git-1E1B4B?style=for-the-badge&logo=git&logoColor=A78BFA" alt="Git"/>
