@@ -23,7 +23,7 @@
 ![](https://img.shields.io/badge/Allure-Reports-1E1B4B?style=flat-square)
 ![](https://img.shields.io/badge/GitHub%20Actions-CI-1E1B4B?style=flat-square)
 
-[**👉 Explore the project**](https://github.com/thejaswiniarun/KFC-India-API-Automation-Pipeline) &nbsp;·&nbsp; [Test Plan](https://github.com/thejaswiniarun/KFC-India-API-Automation-Pipelinedocs/test-plan.md) &nbsp;·&nbsp; [Bug Reports](https://github.com/thejaswiniarun/KFC-India-API-Automation-Pipeline/tree/main/docs/bug-reports) &nbsp;·&nbsp; [Summary Report](https://github.com/thejaswiniarun/KFC-India-API-Automation-Pipeline/blob/main/docs/test-evidence/test_summary_report.md)
+[**👉 Explore the project**](https://github.com/thejaswiniarun/KFC-India-API-Automation-Pipeline) &nbsp;·&nbsp; [Test Plan](https://github.com/thejaswiniarun/KFC-India-API-Automation-Pipeline/blob/main/docs/test-plan.md) &nbsp;·&nbsp; [Bug Reports](https://github.com/thejaswiniarun/KFC-India-API-Automation-Pipeline/tree/main/docs/bug-reports) &nbsp;·&nbsp; [Summary Report](https://github.com/thejaswiniarun/KFC-India-API-Automation-Pipeline/blob/main/docs/test-evidence/test_summary_report.md)
 
 </div>
 
